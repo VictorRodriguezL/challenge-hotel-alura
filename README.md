@@ -65,10 +65,6 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 * [Java 8](https://www.java.com/es/) - Lenguaje de programación.
 * [Eclipse IDE](https://eclipseide.org/) -  Entorno de desarrollo integrado de aplicaciones de código abierto y multiplataforma.
 
-## Versionado 📌
-
-Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
 ## Autores ✒️
 
 * **Ellen Prado Pimentel** - *Instructora en Alura LATAM* - [Ellen](https://www.linkedin.com/in/ellen-p-pimentel/)
