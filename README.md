@@ -6,13 +6,13 @@
 
 ## Descrpción del Proyecto
 
-_Es la resolución del Challenge - Hotel Alura utilizando MySQL para las bases de datos y Java 8 para el desarrollo con ayuda del IDE de Eclipse, tercer reto de la formación Oracle Next Education (ONE) de Oracle + Alura LATAM._
+Es la resolución del **Challenge - Hotel Alura** utilizando **MySQL** para las bases de datos y **Java 8** para el desarrollo con ayuda del IDE de **Eclipse**, tercer reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
 
-_El reto cosiste en crear una aplicación Desktop con conexión a la Base de Datos._
+El reto cosiste en crear una aplicación Desktop con conexión a la Base de Datos.
 
 ### Historia
 
-_El Hotel Alura Conocido por sus espectaculares instalaciones y paquetes promocionales que para los Desarrolladores de Software están teniendo problemas para llevar el control de las reservaciones hechas por sus clientes, por eso solicitan nuestra ayuda para desarrollar un sistema de reserva que contenga:_
+El _Hotel Alura_ Conocido por sus espectaculares instalaciones y paquetes promocionales que para los Desarrolladores de Software están teniendo problemas para llevar el control de las reservaciones hechas por sus clientes, por eso solicitan nuestra ayuda para desarrollar un sistema de reserva que contenga:
 
 ### :hammer:Funcionalidades
 
